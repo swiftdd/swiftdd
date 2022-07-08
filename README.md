@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am SwiftDD and I am currently an ordinary person！ 
 
-<img align="right" alt="img" src="https://img1.baidu.com/it/u=458999675,4259723320&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=340" width="50%" height="auto" />
+<img align="right" alt="img" src="https://img2.baidu.com/it/u=1259727038,3348873407&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=334" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
@@ -38,4 +38,4 @@ Welcome to my Github page! I am SwiftDD and I am currently an ordinary person！
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-<sub>点击进入: <br/>[BLOG](https://swiftdd.github.io) for the wonderfull [文章](https://img1.baidu.com/it/u=458999675,4259723320&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=340)</sub>
+<sub>点击进入: <br/>[BLOG](https://swiftdd.github.io) for the wonderfull [文章](https://swiftdd.github.io/post/du-shu-bi-ji-zhi-ding-pian/)</sub>
