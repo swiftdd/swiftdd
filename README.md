@@ -2,10 +2,10 @@
 ### This is Fernando Roldán!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/swiftdd)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://swiftdd.github.io/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:swiftdd.github.io@gmail.com)
 
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
+Welcome to my Github page! I am SwiftDD and I am currently an ordinary person！ 
 
 <img align="right" alt="img" src="https://img1.baidu.com/it/u=458999675,4259723320&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=340" width="50%" height="auto" />
 
@@ -13,12 +13,12 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
 - Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+- Business practices on [China](https://github.com/swiftdd) 🚀 🚀 🚀 🚀 
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
+- Coding at least 6 hours a day
+- Exercising 5 days a week
 - Improving my CV with some education apart from university
 
 #### :computer: Programming languages and tools: 
@@ -38,4 +38,4 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://img1.baidu.com/it/u=458999675,4259723320&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=340)</sub>
+<sub>点击进入: <br/>[BLOG](https://swiftdd.github.io) for the wonderfull [文章](https://img1.baidu.com/it/u=458999675,4259723320&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=340)</sub>
